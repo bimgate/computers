@@ -2,7 +2,7 @@
 
 Hello,
 
-For this auto tests I used JVM-Cucumber, Selenium WD, Java.
+For implement auto tests I used: JVM-Cucumber, Selenium WD, Java.
 
 - Gherkin scenarios can be found at: /src/test/java/features/CrudOperations.feature
 - Runner is at: /src/test/java/runner/TestRunner.java
