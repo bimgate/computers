@@ -15,5 +15,5 @@ Run "TestRunner"
 Run "CrudOperations.feature"
 mvn clean test
 
-Manual Tests are in folder ManualTests
+Manual Tests are in folder /src/test/java/ManualTests/Test Plan.docx
 
