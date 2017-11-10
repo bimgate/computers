@@ -11,9 +11,9 @@ Other parts of code are grouped inside packages: helpers, resources, utils Simpl
 
 Test set can be run in one of three ways:
 
-Run "TestRunner"
-Run "CrudOperations.feature"
-mvn clean test
+- Run "TestRunner"
+- Run "CrudOperations.feature"
+- mvn clean test
 
 Manual Tests are in folder /src/test/java/ManualTests/Test Plan.docx
 
